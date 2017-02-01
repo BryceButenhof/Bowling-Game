@@ -5,3 +5,6 @@ public class Frame {
 	private boolean isStrike;
 	private boolean isSpare;
 }
+{
+	//add some tests
+}
